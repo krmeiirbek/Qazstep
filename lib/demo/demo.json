@@ -1,0 +1,786 @@
+{
+  "questions": [
+    {
+      "examType": "ҰБТ",
+      "subject": "Математикалық сауаттылық",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "2; 5; X ; У; 14; 17 берілген сандар қатарындағы заңдылықты анықтап, X*У көбейтіндісін табыңыз",
+      "questionImage": null,
+      "options": [
+        "21",
+        "88",
+        "70",
+        "19"
+      ],
+      "correctAnswer": "88"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Математикалық сауаттылық",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "26; 36; 50; 66 сандарының ішінде әр түрлі үш жай санның көбейтіндісі түрінде жазылатын сан",
+      "questionImage": null,
+      "options": [
+        "26",
+        "50",
+        "66",
+        "36"
+      ],
+      "correctAnswer": "66"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Математикалық сауаттылық",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "Төмендегі гистограммада көп қабатты үйлер және олардың биіктіктері (метрмен) көрсетілген.\\nГистограмманы пайдаланып, көп қабатты үйлер биіктігінің медианасын табыңыз",
+      "questionImage": "https://firebasestorage.googleapis.com/v0/b/qazstep-777.firebasestorage.app/o/questionImages%2F3.png?alt=media&token=e3039726-0a5a-4ad9-901e-75b69cfe10b2",
+      "options": [
+        "45 м",
+        "40 м",
+        "43 м",
+        "37 м"
+      ],
+      "correctAnswer": "40 м"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Математикалық сауаттылық",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "Еңбек өнімділігінің (у-өнім мөлшері) жұмыс уақытының ұзақтығына тәуелділігі (х-уақыт) у = 2 - х(x + 4) заңдылығымен өзгергендегі функция",
+      "questionImage": null,
+      "options": [
+        "кубтық функция",
+        "квадраттық функция",
+        "көрсеткіштік функция",
+        "сызықтық функция"
+      ],
+      "correctAnswer": "квадраттық функция"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Математикалық сауаттылық",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "2; 5; X ; У; 14; 17 берілген сандар қатарындағы заңдылықты анықтап, X*У көбейтіндісін табыңыз",
+      "questionImage": null,
+      "options": [
+        "21",
+        "88",
+        "70",
+        "19"
+      ],
+      "correctAnswer": "88"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Математикалық сауаттылық",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "26; 36; 50; 66 сандарының ішінде әр түрлі үш жай санның көбейтіндісі түрінде жазылатын сан",
+      "questionImage": null,
+      "options": [
+        "26",
+        "50",
+        "66",
+        "36"
+      ],
+      "correctAnswer": "66"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Математикалық сауаттылық",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "Төмендегі гистограммада көп қабатты үйлер және олардың биіктіктері (метрмен) көрсетілген.\\nГистограмманы пайдаланып, көп қабатты үйлер биіктігінің медианасын табыңыз",
+      "questionImage": "https://firebasestorage.googleapis.com/v0/b/qazstep-777.firebasestorage.app/o/questionImages%2F3.png?alt=media&token=e3039726-0a5a-4ad9-901e-75b69cfe10b2",
+      "options": [
+        "45 м",
+        "40 м",
+        "43 м",
+        "37 м"
+      ],
+      "correctAnswer": "40 м"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Математикалық сауаттылық",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "sin\\alpha=0,7\\ және 900 < α<1800 шарттарын ескере отырып cos2α-ның мәнін табыңыз",
+      "questionImage": null,
+      "options": [
+        "0,02",
+        "-0,02",
+        "-0,14",
+        "0,3"
+      ],
+      "correctAnswer": "0,02"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Математикалық сауаттылық",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "\\sqrt{7+4\\sqrt3}\\ өрнегінің мәні",
+      "questionImage": null,
+      "options": [
+        "2+\\sqrt2",
+        "2+\\sqrt3",
+        "1+\\sqrt3",
+        "2-\\sqrt3"
+      ],
+      "correctAnswer": "2+\\sqrt3"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Математикалық сауаттылық",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "\\frac{(\\frac{1}{4}m^2n)^3\\ast({-32m}^2n)}{-\\frac{1}{2}m^8n^4}",
+      "questionImage": null,
+      "options": [
+        "m",
+        "1",
+        "mn",
+        "n"
+      ],
+      "correctAnswer": "1"
+    },
+
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "Healthy way of life includes",
+      "questionImage": null,
+      "options": [
+        "eating junk food",
+        "doing exercises",
+        "going shopping",
+        "playing computer games"
+      ],
+      "correctAnswer": "doing exercises"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "The right variant of preposition for phrasal verb\nIt is our station. Please, get ___ the bus.",
+      "questionImage": null,
+      "options": [
+        "off",
+        "up",
+        "of",
+        "down"
+      ],
+      "correctAnswer": "off"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "Adverb of manner",
+      "questionImage": null,
+      "options": [
+        "dry",
+        "rainy",
+        "ready",
+        "quickly"
+      ],
+      "correctAnswer": "quickly"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "Quantitative pronoun:",
+      "questionImage": null,
+      "options": [
+        "him",
+        "I",
+        "too",
+        "much"
+      ],
+      "correctAnswer": "much"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "Correct form of the verb\nI ... a letter when I was child.",
+      "questionImage": null,
+      "options": [
+        "didn’t use to",
+        "didn’t used to",
+        "didn’t uses to",
+        "wasn’t use to"
+      ],
+      "correctAnswer": "didn’t use to"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "Correct word in the phrase\na pound of ___",
+      "questionImage": null,
+      "options": [
+        "flour",
+        "flower",
+        "bitter",
+        "wine"
+      ],
+      "correctAnswer": "flour"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "Correct verb Real(First) Conditional sentence\nThey ... to the seaside if the weather is fine.",
+      "questionImage": null,
+      "options": [
+        "went",
+        "would go",
+        "gone",
+        "will go"
+      ],
+      "correctAnswer": "will go"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "Unreal(Second) Conditional",
+      "questionImage": null,
+      "options": [
+        "If she knew about it, she would tell you.",
+        "If you visit me, I shall be happy.",
+        "If you read a lot, you know a lot.",
+        "If I were you, I would go theres."
+      ],
+      "correctAnswer": "If she knew about it, she would tell you."
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "Appropriate variant\nShe is said ... a generous person.",
+      "questionImage": null,
+      "options": [
+        "being",
+        "-",
+        "be",
+        "to be"
+      ],
+      "correctAnswer": "to be"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "Synonym of “anger”",
+      "questionImage": null,
+      "options": [
+        "disgusting",
+        "annoyance",
+        "aroused",
+        "stunning"
+      ],
+      "correctAnswer": "annoyance"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "Verb suffix",
+      "questionImage": null,
+      "options": [
+        "-ful",
+        "-able",
+        "-ance",
+        "-ate"
+      ],
+      "correctAnswer": "annoyance"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "Impersonal in Passive",
+      "questionImage": null,
+      "options": [
+        "She is said to have been in Moscow",
+        "those papers seem you to give",
+        "it is expected that he joined our company",
+        "your mom considers me to cook our lunch."
+      ],
+      "correctAnswer": "She is said to have been in Moscow"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "Correct articles\n... Sahara Desert is in ... Africa.",
+      "questionImage": null,
+      "options": [
+        "-, the",
+        "The, -",
+        "A, a",
+        "The, the"
+      ],
+      "correctAnswer": "The, -"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "Passive structure:",
+      "questionImage": null,
+      "options": [
+        "to be Past Participle",
+        "should have Past Participle",
+        "will/shall infinitive",
+        "used to"
+      ],
+      "correctAnswer": "to be Past Participle"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "Healthy way of life includes",
+      "questionImage": null,
+      "options": [
+        "eating junk food",
+        "doing exercises",
+        "going shopping",
+        "playing computer games"
+      ],
+      "correctAnswer": "doing exercises"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "The right variant of preposition for phrasal verb\nIt is our station. Please, get ___ the bus.",
+      "questionImage": null,
+      "options": [
+        "off",
+        "up",
+        "of",
+        "down"
+      ],
+      "correctAnswer": "off"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "Adverb of manner",
+      "questionImage": null,
+      "options": [
+        "dry",
+        "rainy",
+        "ready",
+        "quickly"
+      ],
+      "correctAnswer": "quickly"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "Quantitative pronoun:",
+      "questionImage": null,
+      "options": [
+        "him",
+        "I",
+        "too",
+        "much"
+      ],
+      "correctAnswer": "much"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "Correct form of the verb\nI ... a letter when I was child.",
+      "questionImage": null,
+      "options": [
+        "didn’t use to",
+        "didn’t used to",
+        "didn’t uses to",
+        "wasn’t use to"
+      ],
+      "correctAnswer": "didn’t use to"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "Correct word in the phrase\na pound of ___",
+      "questionImage": null,
+      "options": [
+        "flour",
+        "flower",
+        "bitter",
+        "wine"
+      ],
+      "correctAnswer": "flour"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "Correct verb Real(First) Conditional sentence\nThey ... to the seaside if the weather is fine.",
+      "questionImage": null,
+      "options": [
+        "went",
+        "would go",
+        "gone",
+        "will go"
+      ],
+      "correctAnswer": "will go"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "Unreal(Second) Conditional",
+      "questionImage": null,
+      "options": [
+        "If she knew about it, she would tell you.",
+        "If you visit me, I shall be happy.",
+        "If you read a lot, you know a lot.",
+        "If I were you, I would go theres."
+      ],
+      "correctAnswer": "If she knew about it, she would tell you."
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "Appropriate variant\nShe is said ... a generous person.",
+      "questionImage": null,
+      "options": [
+        "being",
+        "-",
+        "be",
+        "to be"
+      ],
+      "correctAnswer": "to be"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "Synonym of “anger”",
+      "questionImage": null,
+      "options": [
+        "disgusting",
+        "annoyance",
+        "aroused",
+        "stunning"
+      ],
+      "correctAnswer": "annoyance"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "single_choice",
+      "questionText": "Verb suffix",
+      "questionImage": null,
+      "options": [
+        "-ful",
+        "-able",
+        "-ance",
+        "-ate"
+      ],
+      "correctAnswer": "annoyance"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "text_question",
+      "text": "Spiders\nSpiders can be found on every continent of the planet except Antarctica. They are both hunters and hunted. They capture their prey in a variety of ways, either by spinning a web and waiting for their unsuspecting prey to fall into the trap, or jumping out of a hiding place onto a passing meal. In turn, spiders are preyed on by lizards, birds, snakes and scorpions. Spiders are also eaten by humans; they are a delicacy in some cultures of the South Pacific and a popular street food in South East Asia.\n\nDespite having adapted to a range of habitats and temperatures, spiders rarely stray far from their home environment. Ballooning spiders are an exception as they can migrate fairly long distances by drifting through the air with air-filled balls of silk. Spiders do not like significant changes in temperature, and tropical spiders such as tarantulas prefer warm surroundings and find many European climates a little cold.           \nArachnophobia, or the irrational fear of spiders, is among the most common phobias in the Western world. It is thought to date back thousands of years and might be the result of an instinctive response displayed in early humans. For a long time throughout Europe, spiders were wrongly believed to spread diseases such as the plague. However, out of all the known spider species on the planet, only around 2% are actually harmful to humans. Other cultures such as Native Americans depict them in a more favourable light as they believe spiders are lucky and consider them symbols of wisdom.\n",
+      "textImage": null,
+      "questions": [
+        {
+          "questionText": "According to the author, spiders… leave their home places.",
+          "questionImage": null,
+          "options": [
+            "often",
+            "always",
+            "eagerly",
+            "hardly"
+          ],
+          "correctAnswer": "hardly"
+        },
+        {
+          "questionText": "According to the text, arachnophobia is…",
+          "questionImage": null,
+          "options": [
+            "a common fear of spiders.",
+            "a type of spider.",
+            "a cultural belief about spiders.",
+            "a method of capturing prey."
+          ],
+          "correctAnswer": "a common fear of spiders."
+        },
+        {
+          "questionText": "The text says, lizards, birds, snakes and scorpions…  spiders",
+          "questionImage": null,
+          "options": [
+            "spin webs of",
+            "are hunted by",
+            "feel traps of",
+            "prey on"
+          ],
+          "correctAnswer": "prey on"
+        },
+        {
+          "questionText": "The author writes that… travel from place to place",
+          "questionImage": null,
+          "options": [
+            "tarantulas",
+            "tropical spiders",
+            "baloon spiders",
+            "all spiders"
+          ],
+          "correctAnswer": "baloon spiders"
+        },
+        {
+          "questionText": "Overall, the text is… .",
+          "questionImage": null,
+          "options": [
+            "humorous",
+            "narrative",
+            "informative",
+            "tragic"
+          ],
+          "correctAnswer": "informative"
+        }
+      ]
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "matching",
+      "questionText": "Match the expressions with their correct meanings:",
+      "questionImage": null,
+      "subFirstQuestion": "Look out",
+      "subSecondQuestion": "Look after",
+      "options": [
+        "watch out",
+        "take care of someone/something",
+        "look for something",
+        "happily expect something"
+      ],
+      "subFirstQuestionAnswer": "watch out",
+      "subSecondQuestionAnswer": "take care of someone/something"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "matching",
+      "questionText": "Complete the sentences with the correct phrases:",
+      "questionImage": null,
+      "subFirstQuestion": "We lived in Japan ___1992 ___2000.",
+      "subSecondQuestion": "They will be away ___ Friday.",
+      "options": [
+        "until",
+        "from, to",
+        "in, into",
+        "since, to"
+      ],
+      "subFirstQuestionAnswer": "from, to",
+      "subSecondQuestionAnswer": "until"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "matching",
+      "questionText": "Match the sentences with the correct type of clause:",
+      "questionImage": null,
+      "subFirstQuestion": "I will talk to Peter as soon as I see him.",
+      "subSecondQuestion": "Take an umbrella in case it rains.",
+      "options": [
+        "Result clause",
+        "Time clause",
+        "Relative clause",
+        "Purpose clause"
+      ],
+      "subFirstQuestionAnswer": "Time clause",
+      "subSecondQuestionAnswer": "Purpose clause"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "matching",
+      "questionText": "Match the expressions with their correct types:",
+      "questionImage": null,
+      "subFirstQuestion": "Referring to places",
+      "subSecondQuestion": "Giving a reason",
+      "options": [
+        "Get dressed by themselves",
+        "Why didn’t she dance",
+        "I don`t know why he ran away",
+        "That’s the cafe where they serve food"
+      ],
+      "subFirstQuestionAnswer": "That’s the cafe where they serve food",
+      "subSecondQuestionAnswer": "I don`t know why he ran away"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "matching",
+      "questionText": "Match the dialogue expressions with their correct responses:",
+      "questionImage": null,
+      "subFirstQuestion": "Good morning, Mr. Jackson",
+      "subSecondQuestion": "I’m afraid I have to...",
+      "options": [
+        "What seems to be the problem?",
+        "How are you doing?",
+        "see you then",
+        "complain about the quality"
+      ],
+      "subFirstQuestionAnswer": "How are you doing?",
+      "subSecondQuestionAnswer": "complain about the quality"
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "multiple_choice",
+      "questionText": "Choose the right conjunction to complete the sentences. He wanted to play football, _____ his mother didn`t allow it.",
+      "questionImage": null,
+      "options": [
+        "as",
+        "but",
+        "unless",
+        "so",
+        "if",
+        "such"
+      ],
+      "correctAnswers": [
+        "but"
+      ]
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "multiple_choice",
+      "questionText": "Relative pronoun(s)",
+      "questionImage": null,
+      "options": [
+        "which",
+        "that",
+        "why",
+        "who",
+        "myself",
+        "them"
+      ],
+      "correctAnswers": [
+        "which",
+        "why",
+        "who"
+      ]
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "multiple_choice",
+      "questionText": "Adverbs of frequency",
+      "questionImage": null,
+      "options": [
+        "often",
+        "rarely",
+        "tomorrow",
+        "always",
+        "almost",
+        "yesterday"
+      ],
+      "correctAnswers": [
+        "often",
+        "rarely",
+        "always"
+      ]
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "multiple_choice",
+      "questionText": "Preposition(s) of time",
+      "questionImage": null,
+      "options": [
+        "of",
+        "in",
+        "at",
+        "behind",
+        "under",
+        "on"
+      ],
+      "correctAnswers": [
+        "in",
+        "at"
+      ]
+    },
+    {
+      "examType": "ҰБТ",
+      "subject": "Ағылшын тілі",
+      "language": "Қазақша",
+      "type": "multiple_choice",
+      "questionText": "True sentence(s) according to the chart.",
+      "questionImage": "https://firebasestorage.googleapis.com/v0/b/qazstep-777.firebasestorage.app/o/questionImages%2FScreenshot%202025-02-04%20at%2019.53.37.png?alt=media&token=015ba557-c659-4f61-a02b-aa935fcd201f",
+      "options": [
+        "Alice paints every day.",
+        "Bob plays soccer twice a week.",
+        "Charlie reads once a month.",
+        "Eva cooks twice a week.",
+        "Diana gardens every day.",
+        "Frank plays the piano once a month"
+      ],
+      "correctAnswers": [
+        "Bob plays soccer twice a week.",
+        "Eva cooks twice a week."
+      ]
+    }
+  ]
+}
